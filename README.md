@@ -31,4 +31,4 @@ The game generates a random number between 1 and 50 and continues until the play
 - Input validation and testing edge cases
 
 ## Output
-![Game output](IMG_7833.PNG)
+![Game output](IMG_7833.png)
